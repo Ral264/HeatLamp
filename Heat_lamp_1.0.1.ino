@@ -6,13 +6,10 @@
 * Last modified: 4-20-15                                                                           *
 *                                                                                                  *
 * Program description: This program is written to control a relay that                             *
-* turns off and on a heat lamp for a pet snake. The program is a basic                             *
-* finite state machine that changes state based off of time and current                            *
-* temperature, with current temperature overriding the amount of time that                         *
-* it has been on                                                                                   *
-*                                                                                                  *
-* Latest version of this can be found at:                                                          *
-* https://github.com/Ral264/HeatLamp/tree/master                                                   *
+* turns off and on a heat lamp for a pet snake in order to regulate temperatures                   *
+* based off of time and current temperature, with current temperature overriding                   *
+* the amount of time that it has been on. A later version of this code also includes               *
+* humidity control, however this code was not added here and is now lost.                          *
 *                                                                                                  *
 *                                                                                                  * 
 * "Timer.h" can be downloaded from:                                                                * 
